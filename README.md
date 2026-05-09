@@ -95,7 +95,6 @@ After:
 
 - C#
 - .NET
-- xUnit for unit testing
 
 ## Why This Repo Exists
 
